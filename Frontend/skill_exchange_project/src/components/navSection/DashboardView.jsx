@@ -106,7 +106,7 @@ const DashboardView = ({ user, matchesCount, pendingCount, onTabChange }) => {
                 </div>
 
                 {/* Right Side Column: Planning & Goals */}
-                <div className="bg-white p-10 rounded-[44px] border border-gray-100 shadow-sm flex flex-col justify-between">
+                <div className="bg-white p-10 rounded-[45px] border border-gray-100 shadow-sm flex flex-col justify-between">
                     <div>
                         <div className="flex justify-between items-center mb-8">
                             <h4 className="font-bold text-gray-800 flex items-center gap-2">
